@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  BakeryOrder
+
+  Created by JaonMicle on 13/09/2017.
+  Copyright © 2017 JaonMicle. All rights reserved.
+*/
+
+
+"Ordered" = "تم الطلب";
+"Making" = "قيد الاعداد";
+"Delivering" = "توصيل";
+"Completed" = "تم الانجاز";
+"Canceled" = "تم الالغاء";
+"Please enter username or email." = "ارجو ادخال اسم المستخدم او البريد الالكتروني";
+"Please enter password." = "الرجاء ادخال الرقم السري";
+"Account was deleted by Admin." = "تم حذف الحساب من قبل المدير";
+"Security info is incorrect." = "معلومات الامان غير صحيحة";
+"Account not exists." = "الحساب غير موجود";
+"Invalidate phone number." = "رقم الهاتف غير صحيح";
+"Forgot Password" = "نسيت الرقم السري";
+"Cancel" = "الغاء";
+"Send" = "ارسل";
+"Success." = "نجح";
+"Failure." = "فشل";
+"Server Connection Error." = "خطاء في الاتصال";
+"Please enter phone number." = "الرجاء ادخال رقم الجوال";
+"Invalidate phone number." = "رقم الجوال خطأ";
+"Bakery Order" = "";
+"Could not send email" = "لا يمكن ارسال ايميل";
+"Your device could not send email" = "الجهاز لا يستطيع ارسال الايميل";
+"Please login again." = "الرجاء الدخول مرة اخرى";
+"current password." = "الرمز السري الحالي";
+"new password." = "رقم سري جديد";
+"confirm password." = "تأكيد الرقم السري";
+"Ok" = "تم";
+"Please enter current password." = "ادخل الرقم السري الحالي";
+"Invalidate current password." = "الرقم السري الحالي غير صحيح";
+"Please enter new password." = "ادخل رقم سري جديد";
+"Please confirm password." = "تأكيد الرقم السري";
+"Don't match new password." = "الرقم السري الجديد لا يتطابق";
+"Don't match password." = "الرقم السري لا يتطابق";
+"New Password" = "رقم سري جديد";
+"Please reset password." = "اعادة تعيين الرقم السري";
+"Payment Confirm" = "تأكيد الدفع";
+"Did you get cash for order?" = "هل استلمت المبلغ كاش";
+"None" = "لا شيء";
+"Customer" = "العميل";
+"My Location" = "العنوان";
+"Please update iOS version." = "الرجاء تحديث نظام ابل";
+"Hello. How are u?" = "مرحبا , كيف حالك";
+"Driver hasn't phone number." = "السائق ليس لديه هاتف";
+"ORDER HISTORY" = "الطلبات السابقة";
+"Please enter verification code" = "ادخل رمز التفعيل";
+"Driver" = "السائق";
+"Account already exist." = "الحساب مسجل مسبقا";
+"Please order breads." = "الرجاء اختيار الصنف";
+"Please buy bread." = "الرجاء الشراء";
+"Total Price: " = "المبلغ الاجمالي";
+"Reorder" = "اعادة الطلب";
+"Order" = "الطلبات";
+"Please select delivery address" = "الرجاء اختيار عنوان التسليم";
+"Please enter contact phone number." = "الرجاء ادخال رقم الجوال";
+"Invalidate Order" = "طلب غير صحيح";
+"Delivery Time" = "وقت التوصيل";
+"Please enter address of selected place." = " الرجاء إدخال عنوان المكان المحدد ";
+"New Address" = "عنوان جديد";
+"Please enter name." = "الرجاء ادخال الاسم";
+"Confirm" = "تاكيد";
+"Are you sure?" = "شما مطمئن هستید؟";
+"No" = "نه";
+"Driver isn't allocated yet." = "راننده هنوز مشخص نشده است.";
+"please select time of receipt" = "اختار وقت التوصيل";
+"Reason of reject." = "دلیل رد";
+"Yes" = "بله";
+"Please input reason of reject." = " دلیل رد لطفا ورودی";
+"Input" = "ورودی";
+"SELECTE" = "انتخاب کنید";
+"Invalidate Code" = "کد غير صحيح";
+"Please enter username or phone number." = "ارجو ادخال اسم المستخدم او  رقم الجوال";

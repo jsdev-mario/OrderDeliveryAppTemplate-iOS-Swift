@@ -1,0 +1,378 @@
+
+/* Class = "UITextField"; text = "56.09 ✕ 5"; ObjectID = "1pZ-y1-JAn"; */
+"1pZ-y1-JAn.text" = "56.09 ✕ 5";
+
+/* Class = "UILabel"; text = "VERIFICATION"; ObjectID = "26W-tu-gYi"; */
+"26W-tu-gYi.text" = "VERIFICATION";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "27o-P8-cSx"; */
+"27o-P8-cSx.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "2Mr-Uo-00E"; */
+"2Mr-Uo-00E.text" = "Completed";
+
+/* Class = "UILabel"; text = "PAYMENT HISTORY"; ObjectID = "2Vw-D1-uRe"; */
+"2Vw-D1-uRe.text" = "PAYMENT HISTORY";
+
+/* Class = "UILabel"; text = "#0001, #000A"; ObjectID = "2cZ-rt-ivr"; */
+"2cZ-rt-ivr.text" = "#0001, #000A";
+
+/* Class = "UILabel"; text = "Price: "; ObjectID = "3AU-qI-mgS"; */
+"3AU-qI-mgS.text" = "Price: ";
+
+/* Class = "UILabel"; text = "12K"; ObjectID = "5Do-CM-1Al"; */
+"5Do-CM-1Al.text" = "12K";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "5N2-1d-rM2"; */
+"5N2-1d-rM2.text" = "Address:";
+
+/* Class = "UILabel"; text = "#0001"; ObjectID = "5UO-kc-fXQ"; */
+"5UO-kc-fXQ.text" = "#0001";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Sl-qS-kod"; */
+"6Sl-qS-kod.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "72O-lQ-vzd"; */
+"72O-lQ-vzd.normalTitle" = "Reset Password";
+
+/* Class = "UILabel"; text = "Ajdov Kruh"; ObjectID = "8X5-cS-IDv"; */
+"8X5-cS-IDv.text" = "Ajdov Kruh";
+
+/* Class = "UILabel"; text = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!"; ObjectID = "8Yf-WA-HvE"; */
+"8Yf-WA-HvE.text" = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "8ei-Wf-WRd"; */
+"8ei-Wf-WRd.text" = "Phone:";
+
+/* Class = "UIButton"; normalTitle = "Deliveried"; ObjectID = "9A6-9A-iln"; */
+"9A6-9A-iln.normalTitle" = "Deliveried";
+
+/* Class = "UILabel"; text = "ORDER HISTORY"; ObjectID = "9Bg-2C-Zdd"; */
+"9Bg-2C-Zdd.text" = "ORDER HISTORY";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "AfK-Ge-btG"; */
+"AfK-Ge-btG.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; text = "10"; ObjectID = "AwE-RB-r0A"; */
+"AwE-RB-r0A.text" = "10";
+
+/* Class = "UILabel"; text = "Delivery Time"; ObjectID = "BDZ-6k-Mn2"; */
+"BDZ-6k-Mn2.text" = "Delivery Time";
+
+/* Class = "UIButton"; normalTitle = "log out"; ObjectID = "BvB-mS-8kk"; */
+"BvB-mS-8kk.normalTitle" = "log out";
+
+/* Class = "UITextField"; placeholder = "Verification Code"; ObjectID = "CFB-sE-xMh"; */
+"CFB-sE-xMh.placeholder" = "Verification Code";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "CPZ-o4-iXX"; */
+"CPZ-o4-iXX.text" = "or";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "CPg-6a-f7z"; */
+"CPg-6a-f7z.text" = "UserName";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "DDX-2S-dXk"; */
+"DDX-2S-dXk.text" = "Address:";
+
+/* Class = "UILabel"; text = "Subscribe"; ObjectID = "Dvo-6V-3R6"; */
+"Dvo-6V-3R6.text" = "Subscribe";
+
+/* Class = "UIButton"; normalTitle = "Contact Us"; ObjectID = "E71-TD-pMx"; */
+"E71-TD-pMx.normalTitle" = "Contact Us";
+
+/* Class = "UILabel"; text = "2019-09-14 07:00 AM-11:00 AM"; ObjectID = "Eb0-hv-hQM"; */
+"Eb0-hv-hQM.text" = "2019-09-14 07:00 AM-11:00 AM";
+
+/* Class = "UIButton"; normalTitle = "Product Evalution "; ObjectID = "Frw-3b-pQ2"; */
+"Frw-3b-pQ2.normalTitle" = "Product Evalution ";
+
+/* Class = "UILabel"; text = "123578941235"; ObjectID = "GcL-a5-zDL"; */
+"GcL-a5-zDL.text" = "123578941235";
+
+/* Class = "UILabel"; text = "$ 123.98"; ObjectID = "IJt-ww-NSW"; */
+"IJt-ww-NSW.text" = "$ 123.98";
+
+/* Class = "UILabel"; text = "Order"; ObjectID = "Ic4-c6-aQA"; */
+"Ic4-c6-aQA.text" = "Order";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "JAt-Wl-2v0"; */
+"JAt-Wl-2v0.normalTitle" = "Reset Password";
+
+/* Class = "UILabel"; text = "Traking"; ObjectID = "Jll-vD-rTa"; */
+"Jll-vD-rTa.text" = "Traking";
+
+/* Class = "UILabel"; text = "2017-09-05 07:45 AM"; ObjectID = "KuV-fe-bUZ"; */
+"KuV-fe-bUZ.text" = "2017-09-05 07:45 AM";
+
+/* Class = "UILabel"; text = "Delivery Time"; ObjectID = "KwF-mF-Dtu"; */
+"KwF-mF-Dtu.text" = "Delivery Time";
+
+/* Class = "UILabel"; text = "Thank you for your order. Your order will be soon."; ObjectID = "L3a-nV-URo"; */
+"L3a-nV-URo.text" = "Thank you for your order. Your order will be soon.";
+
+/* Class = "UIButton"; normalTitle = "Please select receipt time"; ObjectID = "LDh-tf-zhj"; */
+"LDh-tf-zhj.normalTitle" = "Please select receipt time";
+
+/* Class = "UILabel"; text = " Arappeedika, Balussery, Kerala 673612"; ObjectID = "LiG-wH-Qos"; */
+"LiG-wH-Qos.text" = " Arappeedika, Balussery, Kerala 673612";
+
+/* Class = "UILabel"; text = "#0001"; ObjectID = "Lzx-8a-5tc"; */
+"Lzx-8a-5tc.text" = "#0001";
+
+/* Class = "UILabel"; text = "PAYMENT"; ObjectID = "MkH-ND-1Nx"; */
+"MkH-ND-1Nx.text" = "PAYMENT";
+
+/* Class = "UILabel"; text = "Total Price: $238.09"; ObjectID = "N2Z-Bl-tS8"; */
+"N2Z-Bl-tS8.text" = "Total Price: $238.09";
+
+/* Class = "UILabel"; text = "ORDER LIST"; ObjectID = "NSh-fg-7Gk"; */
+"NSh-fg-7Gk.text" = "ORDER LIST";
+
+/* Class = "UILabel"; text = "05-09-2017 12:50"; ObjectID = "NXL-TB-PCN"; */
+"NXL-TB-PCN.text" = "05-09-2017 12:50";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Nes-fB-4V2"; */
+"Nes-fB-4V2.text" = "0";
+
+/* Class = "UITextField"; text = "2546897125786"; ObjectID = "OYb-qD-CCj"; */
+"OYb-qD-CCj.text" = "2546897125786";
+
+/* Class = "UILabel"; text = "#0001"; ObjectID = "OcY-a2-Fb1"; */
+"OcY-a2-Fb1.text" = "#0001";
+
+/* Class = "UILabel"; text = "ORDER"; ObjectID = "OuQ-p3-zOc"; */
+"OuQ-p3-zOc.text" = "ORDER";
+
+/* Class = "UIButton"; normalTitle = "Profile Setting"; ObjectID = "PDo-pJ-LVa"; */
+"PDo-pJ-LVa.normalTitle" = "Profile Setting";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "PER-Je-5Pc"; */
+"PER-Je-5Pc.placeholder" = "Address";
+
+/* Class = "UILabel"; text = "04-09-2017 15:26"; ObjectID = "Pre-O7-SON"; */
+"Pre-O7-SON.text" = "04-09-2017 15:26";
+
+/* Class = "UIButton"; normalTitle = "06-09-2017 15:23"; ObjectID = "Q2a-D7-FK9"; */
+"Q2a-D7-FK9.normalTitle" = "06-09-2017 15:23";
+
+/* Class = "UILabel"; text = "12k"; ObjectID = "Q9E-gL-Cug"; */
+"Q9E-gL-Cug.text" = "12k";
+
+/* Class = "UILabel"; text = "PROFILE SETTING"; ObjectID = "RMc-xf-37S"; */
+"RMc-xf-37S.text" = "PROFILE SETTING";
+
+/* Class = "UILabel"; text = "$ 0.00"; ObjectID = "RhJ-CY-L74"; */
+"RhJ-CY-L74.text" = "$ 0.00";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "Rje-eT-ini"; */
+"Rje-eT-ini.normalTitle" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "◀︎"; ObjectID = "SUR-6r-Onr"; */
+"SUR-6r-Onr.normalTitle" = "◀︎";
+
+/* Class = "UILabel"; text = "12k"; ObjectID = "SeR-N3-qRx"; */
+"SeR-N3-qRx.text" = "12k";
+
+/* Class = "UILabel"; text = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!"; ObjectID = "Suo-DZ-f47"; */
+"Suo-DZ-f47.text" = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!";
+
+/* Class = "UILabel"; text = "Payment:"; ObjectID = "T3I-ZP-Kif"; */
+"T3I-ZP-Kif.text" = "Payment:";
+
+/* Class = "UILabel"; text = "2017-09-06 16:34"; ObjectID = "TEN-JC-eCg"; */
+"TEN-JC-eCg.text" = "2017-09-06 16:34";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "UHJ-IT-dEa"; */
+"UHJ-IT-dEa.text" = "Report";
+
+/* Class = "UILabel"; text = "ORDER STATUS"; ObjectID = "UOy-Cm-LUo"; */
+"UOy-Cm-LUo.text" = "ORDER STATUS";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "UWL-cX-EZb"; */
+"UWL-cX-EZb.text" = "Price:";
+
+/* Class = "UIButton"; normalTitle = "Request Again"; ObjectID = "Ucm-xE-6g2"; */
+"Ucm-xE-6g2.normalTitle" = "Request Again";
+
+/* Class = "UITextField"; placeholder = "Password Confirm"; ObjectID = "Uwq-a2-Tfq"; */
+"Uwq-a2-Tfq.placeholder" = "Password Confirm";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "VZu-cm-3zO"; */
+"VZu-cm-3zO.text" = "2";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "WUi-1q-FRO"; */
+"WUi-1q-FRO.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "XHZ-XX-fM3"; */
+"XHZ-XX-fM3.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "BLACK EARTH 4250 Hilltop Street"; ObjectID = "Y0K-Da-skd"; */
+"Y0K-Da-skd.text" = "BLACK EARTH 4250 Hilltop Street";
+
+/* Class = "UILabel"; text = "Ajdov Kruh"; ObjectID = "YFS-cE-awI"; */
+"YFS-cE-awI.text" = "Ajdov Kruh";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "Yet-f7-kMi"; */
+"Yet-f7-kMi.text" = "Date:";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "YgY-Yh-eFG"; */
+"YgY-Yh-eFG.text" = "Total Price";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "azs-7B-IIW"; */
+"azs-7B-IIW.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "REGISTER"; ObjectID = "b7g-No-ctD"; */
+"b7g-No-ctD.text" = "REGISTER";
+
+/* Class = "UILabel"; text = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!"; ObjectID = "bCp-5h-tlR"; */
+"bCp-5h-tlR.text" = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!";
+
+/* Class = "UILabel"; text = "Order Confirm"; ObjectID = "bWc-VK-lbx"; */
+"bWc-VK-lbx.text" = "Order Confirm";
+
+/* Class = "UIButton"; normalTitle = "Order Items"; ObjectID = "byX-R3-cQM"; */
+"byX-R3-cQM.normalTitle" = "Order Items";
+
+/* Class = "UILabel"; text = "Order Time:"; ObjectID = "cKe-U1-ixt"; */
+"cKe-U1-ixt.text" = "Order Time:";
+
+/* Class = "UILabel"; text = "23.15"; ObjectID = "cum-ew-Afh"; */
+"cum-ew-Afh.text" = "23.15";
+
+/* Class = "UIButton"; normalTitle = "log out"; ObjectID = "d8m-r8-g3r"; */
+"d8m-r8-g3r.normalTitle" = "log out";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "e5T-db-FfY"; */
+"e5T-db-FfY.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Driver:"; ObjectID = "e6S-k7-CKw"; */
+"e6S-k7-CKw.text" = "Driver:";
+
+/* Class = "UILabel"; text = "Order Number"; ObjectID = "eDe-FL-pSg"; */
+"eDe-FL-pSg.text" = "Order Number";
+
+/* Class = "UILabel"; text = "Subscribe Type"; ObjectID = "fwL-un-gcQ"; */
+"fwL-un-gcQ.text" = "Subscribe Type";
+
+/* Class = "UILabel"; text = "BLACK EARTH 4250 Hilltop Street"; ObjectID = "g7T-RR-dJ4"; */
+"g7T-RR-dJ4.text" = "BLACK EARTH 4250 Hilltop Street";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "gPY-tz-1GT"; */
+"gPY-tz-1GT.text" = "Price:";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "h5y-OZ-DKW"; */
+"h5y-OZ-DKW.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "UserName or Phone Number"; ObjectID = "hfv-DL-uPG"; */
+"hfv-DL-uPG.placeholder" = "UserName or Phone Number";
+
+/* Class = "UIButton"; normalTitle = "VERIFICATION"; ObjectID = "hhf-a7-zK6"; */
+"hhf-a7-zK6.normalTitle" = "VERIFICATION";
+
+/* Class = "UILabel"; text = "Accept time:"; ObjectID = "iYk-GJ-Yb6"; */
+"iYk-GJ-Yb6.text" = "Accept time:";
+
+/* Class = "UILabel"; text = "PRODUCT EVALUATION"; ObjectID = "icL-LT-msC"; */
+"icL-LT-msC.text" = "PRODUCT EVALUATION";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ilV-Sg-p2P"; */
+"ilV-Sg-p2P.text" = "20";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "is7-vz-l3P"; */
+"is7-vz-l3P.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "krn-uq-33H"; */
+"krn-uq-33H.placeholder" = "UserName";
+
+/* Class = "UILabel"; text = "Big Stomatch King Burger"; ObjectID = "lQd-3C-Ov8"; */
+"lQd-3C-Ov8.text" = "Big Stomatch King Burger";
+
+/* Class = "UILabel"; text = "#0001"; ObjectID = "m4I-M8-phk"; */
+"m4I-M8-phk.text" = "#0001";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "mH8-QI-vGW"; */
+"mH8-QI-vGW.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "moJ-cJ-8gS"; */
+"moJ-cJ-8gS.text" = "Price";
+
+/* Class = "UITextField"; placeholder = "UserName or Email"; ObjectID = "ntD-kP-ggx"; */
+"ntD-kP-ggx.placeholder" = "UserName or Email";
+
+/* Class = "UIButton"; normalTitle = "Password Reset"; ObjectID = "oK5-xD-Qze"; */
+"oK5-xD-Qze.normalTitle" = "Password Reset";
+
+/* Class = "UILabel"; text = "$123.45"; ObjectID = "okd-p6-9uT"; */
+"okd-p6-9uT.text" = "$123.45";
+
+/* Class = "UILabel"; text = "(Only Customer)"; ObjectID = "pct-ds-sYW"; */
+"pct-ds-sYW.text" = "(Only Customer)";
+
+/* Class = "UILabel"; text = "93312345678896"; ObjectID = "rFn-kI-x3P"; */
+"rFn-kI-x3P.text" = "93312345678896";
+
+/* Class = "UITextField"; placeholder = "Mobile Phone Number"; ObjectID = "rLS-iz-Ctd"; */
+"rLS-iz-Ctd.placeholder" = "Mobile Phone Number";
+
+/* Class = "UILabel"; text = "Reject"; ObjectID = "rXd-qC-iM6"; */
+"rXd-qC-iM6.text" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "▶︎"; ObjectID = "rbe-Pa-Wum"; */
+"rbe-Pa-Wum.normalTitle" = "▶︎";
+
+/* Class = "UILabel"; text = "Order Number:"; ObjectID = "rc8-vu-xzA"; */
+"rc8-vu-xzA.text" = "Order Number:";
+
+/* Class = "UILabel"; text = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!"; ObjectID = "s0X-pI-H7F"; */
+"s0X-pI-H7F.text" = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "tP8-zp-MM4"; */
+"tP8-zp-MM4.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "Order History"; ObjectID = "tfm-iO-Ozr"; */
+"tfm-iO-Ozr.normalTitle" = "Order History";
+
+/* Class = "UIButton"; normalTitle = "Payment History"; ObjectID = "tj9-PO-KyL"; */
+"tj9-PO-KyL.normalTitle" = "Payment History";
+
+/* Class = "UILabel"; text = "BREAD"; ObjectID = "tlt-LM-qIz"; */
+"tlt-LM-qIz.text" = "BREAD";
+
+/* Class = "UILabel"; text = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!"; ObjectID = "uZE-Oq-dF3"; */
+"uZE-Oq-dF3.text" = "An all-time favorite burger that's loved by all and one for its yummy taste. A totally timeless classic!";
+
+/* Class = "UITextField"; placeholder = "phone number reset"; ObjectID = "ujN-Uv-Yli"; */
+"ujN-Uv-Yli.placeholder" = "phone number reset";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "upS-JS-Xt8"; */
+"upS-JS-Xt8.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Big Stomatch King Burger"; ObjectID = "vni-lg-W0Y"; */
+"vni-lg-W0Y.text" = "Big Stomatch King Burger";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "wEU-RF-Uo3"; */
+"wEU-RF-Uo3.text" = "Phone:";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "wXc-Tj-x3j"; */
+"wXc-Tj-x3j.text" = "1";
+
+/* Class = "UILabel"; text = "ORDER LIST"; ObjectID = "wf1-mG-eMI"; */
+"wf1-mG-eMI.text" = "ORDER LIST";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "wnF-UG-Hs7"; */
+"wnF-UG-Hs7.text" = "Date:";
+
+/* Class = "UILabel"; text = "04-09-2017 15:26"; ObjectID = "x7y-Qb-4qP"; */
+"x7y-Qb-4qP.text" = "04-09-2017 15:26";
+
+/* Class = "UILabel"; text = " Arappeedika, Balussery, Kerala 673612"; ObjectID = "x9s-a4-b8c"; */
+"x9s-a4-b8c.text" = " Arappeedika, Balussery, Kerala 673612";
+
+/* Class = "UILabel"; text = "Ajdov Kruh"; ObjectID = "yIr-JF-a4U"; */
+"yIr-JF-a4U.text" = "Ajdov Kruh";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "yKE-xn-qYj"; */
+"yKE-xn-qYj.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Accept"; ObjectID = "za7-iX-G8i"; */
+"za7-iX-G8i.text" = "Accept";

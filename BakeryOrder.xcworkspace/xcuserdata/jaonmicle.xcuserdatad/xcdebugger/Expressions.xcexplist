@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EvalutionCell.evaluation.didset:EvalutionCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.setOrderData(order : Order) -&gt; ():UserOrderViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.minusAction(UIButton) -&gt; ():UserOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+            <PersistentString
+               value = "AppCommon.instance.currentOrder.order_item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserEvalutionViewController.(likeAction(UIButton) -&gt; ()).(closure #1).(closure #1):UserEvalutionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.user.evaluation">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;bread\(self.evaluationData[sender.tag].bread.id)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegisterViewController.signUpAction(UIButton) -&gt; ():RegisterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Constant.REG_URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(loginAction(UIButton) -&gt; ()).(closure #1).(closure #1):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Order.mapping(map : Map) -&gt; ():Order.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.initData() -&gt; ():UserOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.currentOrder.delivery_address">
+            </PersistentString>
+            <PersistentString
+               value = "sp_offer.bread">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BakeryOrderListViewController.reportAction(UIButton) -&gt; ():BakeryOrderListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "orderDatas[sender.tag].status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderStatusViewController.viewDidLoad() -&gt; ():UserOrderStatusViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.driver.location.components(separatedBy: &quot;:&quot;)[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:UserOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderBreadViewController.(initData() -&gt; ()).(closure #1).(closure #1):UserOrderBreadViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "User.mapping(map : Map) -&gt; ():User.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(loginAction(UIButton) -&gt; ()).(closure #1):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderHistoryCell.order.didset:UserOrderHistoryCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderBreadCell.orderItem.didset:UserOrderBreadCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserEvalutionViewController.viewDidLoad() -&gt; ():UserEvalutionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserPaymentViewController.userDidProvide(CardIOCreditCardInfo!, in : CardIOPaymentViewController!) -&gt; ():UserPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cardInfo.cardNumber">
+            </PersistentString>
+            <PersistentString
+               value = "cardInfo.postalCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderHistoryViewController.(initData() -&gt; ()).(closure #1).(closure #1):UserOrderHistoryViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProfileSettingViewController.initData() -&gt; ():ProfileSettingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameText.text">
+            </PersistentString>
+            <PersistentString
+               value = "AppCommon.instance.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserEvalutionViewController.(likeAction(UIButton) -&gt; ()).(closure #1):UserEvalutionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.evalutionDatas[sender.tag]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserPaymentViewController.(sendPayToServer(amount : Float, pay_method : String) -&gt; ()).(closure #1).(closure #1):UserPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonData[&quot;message&quot;].stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BakeryOrderListViewController.accept(UIButton) -&gt; ():BakeryOrderListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderDatas[sender.tag].time">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized _fatalErrorMessage(StaticString, StaticString, file : StaticString, line : UInt, flags : UInt32) -&gt; Never:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "cardInfo.cardNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BakeryOrderCell.order.didset:BakeryOrderCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserPaymentHistoryViewController.(initData() -&gt; ()).(closure #1).(closure #1):UserPaymentHistoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Constant.PAYHISTORYGET_URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserPaymentViewController.sendPayToServer(nonce : String, pay_method : String) -&gt; ():UserPaymentViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(UIApplication, didFinishLaunchingWithOptions : [UIApplicationLaunchOptionsKey : Any]?) -&gt; Bool:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(id / 36)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.checkOutAction(UIButton) -&gt; ():UserOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.user.location">
+            </PersistentString>
+            <PersistentString
+               value = "AppCommon.instance.currentOrder.delivery_location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserSpOrderCell.setData(spoffer : SpecOffer) -&gt; ():UserSpOrderCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderViewController.(checkOutAction(UIButton) -&gt; ()).(closure #1).(closure #1):UserOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.currentPayment.pay_price">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BakeryOrderListViewController.(reportAction(UIButton) -&gt; ()).(closure #1):BakeryOrderListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderDatas[sender.tag].id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Mapper.map(JSON : [String : Any]) -&gt; A?:Mapper.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserOrderBreadViewController.viewDidAppear(Bool) -&gt; ():UserOrderBreadViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.currentOrder.order_item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserEvalutionViewController.initData() -&gt; ():UserEvalutionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.user.evaluation">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;bread\(bread.id!)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserPaymentViewController.payAction(UIButton) -&gt; ():UserPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppCommon.instance.currentPayment.pay_price / 3.75">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bread.mapping(map : Map) -&gt; ():Bread.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BakeryOrderListViewController.(resetPwdAction(UIButton) -&gt; ()).(closure #1):BakeryOrderListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "oldPass.text">
+            </PersistentString>
+            <PersistentString
+               value = "confirmPass.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Toast.init(text : String?, delay : Double, duration : Double) -&gt; Toast:Toast.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonData[&quot;message&quot;].stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

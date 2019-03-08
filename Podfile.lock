@@ -1,0 +1,99 @@
+PODS:
+  - Alamofire (4.5.0)
+  - ALCameraViewController (1.3.1)
+  - APScheduledLocationManager (1.0.1)
+  - CardIO (5.4.1)
+  - DateTimePicker (1.1.2)
+  - DLRadioButton (1.4.9)
+  - GoogleMaps (2.3.1):
+    - GoogleMaps/Maps (= 2.3.1)
+  - GoogleMaps/Base (2.3.1)
+  - GoogleMaps/Maps (2.3.1):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.3.1):
+    - GoogleMaps (= 2.3.1)
+    - GooglePlaces (= 2.3.1)
+  - GooglePlaces (2.3.1):
+    - GoogleMaps/Base (= 2.3.1)
+  - IQKeyboardManager (4.0.10)
+  - libwebp (0.6.0):
+    - libwebp/core (= 0.6.0)
+    - libwebp/dec (= 0.6.0)
+    - libwebp/demux (= 0.6.0)
+    - libwebp/dsp (= 0.6.0)
+    - libwebp/enc (= 0.6.0)
+    - libwebp/mux (= 0.6.0)
+    - libwebp/utils (= 0.6.0)
+    - libwebp/webp (= 0.6.0)
+  - libwebp/core (0.6.0):
+    - libwebp/webp
+  - libwebp/dec (0.6.0):
+    - libwebp/core
+  - libwebp/demux (0.6.0):
+    - libwebp/core
+  - libwebp/dsp (0.6.0):
+    - libwebp/core
+  - libwebp/enc (0.6.0):
+    - libwebp/core
+  - libwebp/mux (0.6.0):
+    - libwebp/core
+  - libwebp/utils (0.6.0):
+    - libwebp/core
+  - libwebp/webp (0.6.0)
+  - ObjectMapper (2.2.7)
+  - PayPal-iOS-SDK (2.17.0):
+    - PayPal-iOS-SDK/CardIO (= 2.17.0)
+    - PayPal-iOS-SDK/Core (= 2.17.0)
+  - PayPal-iOS-SDK/CardIO (2.17.0):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.17.0)
+  - SCLAlertView (0.7.0)
+  - SDWebImage/Core (4.0.0)
+  - SDWebImage/WebP (4.0.0):
+    - libwebp
+    - SDWebImage/Core
+  - SwiftyJSON (3.1.4)
+  - TextFieldEffects (1.3.3)
+  - Toaster (2.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - ALCameraViewController
+  - APScheduledLocationManager
+  - DateTimePicker
+  - DLRadioButton (~> 1.4)
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - IQKeyboardManager
+  - ObjectMapper (~> 2.2)
+  - PayPal-iOS-SDK
+  - SCLAlertView
+  - SDWebImage/WebP
+  - SwiftyJSON
+  - TextFieldEffects
+  - Toaster (~> 2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  ALCameraViewController: 29a34772007b98e23150bfe1772475a4a80a33ff
+  APScheduledLocationManager: ec688cae8b606c6f7a5234189c3954eb9a6d3ace
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  DateTimePicker: 518bffa5438ef83a7a687cc4d5e187e5c12012b8
+  DLRadioButton: 7bb8a6e3768b572469ace553391ab4d2af6f9c19
+  GoogleMaps: c66a71058b9b1294bcdd5463a68e357fa50c079f
+  GooglePlacePicker: fc3564ac7a2ce314e78e42bfc1e16822ad1e5488
+  GooglePlaces: 4a7b22debfa1af65017b82943431822607e45201
+  IQKeyboardManager: 593ee99b88381f4b9ccb22bd680f22606351bd41
+  libwebp: 1d5a07c2eb97f9c31bd5f154bb82efc0ea67c6a2
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  PayPal-iOS-SDK: 849321f6214a7187ee4cc684f63fe509df4c4a36
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TextFieldEffects: 8706f53525f1ce51c8921b7af32237caab50c467
+  Toaster: f13031c636ef065281bc11857be9a16c7659e04f
+
+PODFILE CHECKSUM: a7b39795abf16fcdeb0d1feeb16f1b977d966a68
+
+COCOAPODS: 1.2.1
