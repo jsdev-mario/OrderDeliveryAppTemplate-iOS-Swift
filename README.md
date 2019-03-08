@@ -8,3 +8,4 @@ this is template order delivery ios app using Swift <br>
 - Payment system using Braintree.
 
 ## screenshot
+<img src="https://raw.githubusercontent.com/bk313131/OrderDeliveryAppTemplate-iOS-Swift/master/screenshots/1.png" width="1024">
